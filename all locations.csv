@@ -1,0 +1,43 @@
+Sr. No,CityName,IsMetroCity,IsNewYearEve,HotelName,RoomRent,StarRating,HotelAddress,HotelPincode,HotelDescription,FreeWifi,FreeBreakfast,HotelCapacity,HasSwimmingPool
+1,Mumbai,1,0,Vivanta by Taj,12375,5,"90 Cuffe Parade, Colaba, Mumbai, Maharashtra",400005,"Luxury hotel with spa, near Gateway of India",1,0,287,1
+2,Delhi,1,0,OYO Premium Near Mega Mall,4150,3,"F12/4, DLF Phase 1,,Gurgaon,,India",120001,3-star hotel in Gurgaon,1,0,5,0
+3,Bangalore,0,0,Villa Pottipati,5850,4,"142, 8th Cross, 4th Main Road, Malleswaram,, Bengaluru",560003,"3.5-star hotel, convenient to ISKCON Temple",1,1,8,1
+4,Chennai,1,0,Accord Metropolitan,4000,4,"35, GN Chetty Road, T Nagar, Chennai, Tamil Nadu",600017,"Luxury hotel in Chennai with 3 restaurants, spa",1,0,162,1
+5,Hyderabad,0,0,Aditya Park-A Sarovar Portico Hotel,3440,3,"Ameerpet Aditya Enclave, Hyderabad, Andhra Pradesh, India",500082,"3-star hotel in Begumpet with 2 restaurants, bar/lounge",1,1,88,0
+6,Ahmedabad,0,0,OYO Premium Shahibaug Airport Road,9792,3,"Shahibaug Under Bridge,,Ahmedabad,Gujarat,India",380004,3,1,1,10,0
+7,Kolkata,1,0,662B THE GUEST HOUSE,3500,2,"66/2B, Purna Das Road,,Kolkata,West Bengal,India",700029,No-frills guesthouse in Ballygunge with restaurant,1,1,16,0
+8,Surat,0,0,Best Western Yuvraj,2480,4,"Gulambaba Mill Compound, Opposite Railway Station, Surat",395003,City-center Surat hotel with restaurant,0,1,54,0
+9,Pune,0,0,14 Square Amanora,1960,2,"Amanora Town, Tower No.6, Hadapsar, Pune, Maharashtra, India",411028,No-frills Pune apartment with kitchenette,1,1,3,0
+10,Jaipur,0,0,OYO Rooms Raja Park,851,3,"189A, Panchwati Circle, Lane no.- 1, Raja Park",302004,Jaipur hotel next to shopping,1,1,8,0
+11,Thrissur,0,0,36 PALMS BOUTIQUE RETREAT,4250,4,"1/485, Pallipuram - Munambam Rd, Cherai Beach, Vypin, Kerala, 683515, India",683515,Vypin beachfront resort with restaurant,1,1,10,0
+12,Lucknow,0,0,Clarks Avadh,7200,4,"8 Mahatama Gandhi Marg, Lucknow, Uttar Pradesh, 226 001 India",226001,"4-star hotel in Lucknow with 2 restaurants, indoor pool",1,1,98,1
+13,Kanpur,0,0,OYO Rooms 80 Feet Road,2128,3,"111/453 80 Feet Road, Kanpur, 208012, India",208012,Kanpur hotel next to shopping,1,1,15,0
+14,Amritsar,0,0,OYO Rooms Queens Road,3085,3,"Plot No. 3 Queen's Road,,Amritsar,,India",143001,Amritsar hotel next to shopping,1,1,15,0
+15,Indore,0,0,Country Inn By Carlson-Indore,4000,3.5,"306-b Pu-4 Rasoma Circle, Agra-bombay Road, Indore, Madhya Pradesh, 452010, India",452010,"3.5-star hotel in Indore with 2 restaurants, bar/lounge",1,1,45,0
+16,Agra,0,0,ADB Rooms The Light House Agra,2425,3,"Kanak Estate, Taj Nagari Phase- II, Fatehabad Road Agra - 282001 (U.P.), Agra, Uttar Pradesh, 282001 India",282001,"3-star hotel with 2 restaurants, near Taj Mahal",1,1,32,0
+17,Madurai,0,0,OYO Rooms Madurai Periyar Bus Stand,5001,3,"Plot no-122,TPK Road,, Near Periyar Shopping Bus Terminal, Madura",625001,"3-star hotel in Madurai,Free continental breakfast, free WiFi, and free parking",1,1,22,0
+18,Goa,0,0,Aguada Anchorage,23000,4,"Near Fort Aguada, Sinquerim, Candolim, Goa",403515,"4-star hotel with 2 outdoor pools, near Fort Aguada",1,1,65,1
+19,Rajkot,0,0,Comfort Inn Legacy,3324,3,"Panchnath Main Road, Limda Chowk, Rajkot, Gujarat",360001,3-star Rajkot hotel with restaurant,1,1,38,0
+20,Varanasi,0,0,A Palace On River,6053,3.5,"D, 16/28-A, Manmandir Ghat, Dasaswamedh, Varanasi, Uttar Pradesh",221001,3.5-star Varanasi hotel with restaurant,1,0,16,0
+21,Srinagar,0,0,Hotel Mirage,7059,3,"New Era School Road, Raj Bagh, Srinagar, Jammu and Kashmir",190008,"3-star hotel in Raj Bagh with restaurant, 24-hour fitness",1,1,17,0
+22,Jodhpur,0,0,Apnayt Villa,3000,3.5,"136, Umaid Heritage, Foothill of Umaid Bhawan Palace, Jodhpur, Rajasthan, 342011, India",342011,3.5-star Jodhpur B&B with restaurant,1,1,5,0
+23,Chandigarh,0,0,Golden Tulip Chandigarh Panchkula,3200,4,"Morni Road (Near Nada Sahib Gurudwara),,Panchkula,Haryana,India",134109,"4-star hotel in Panchkula with spa, outdoor pool",1,0,44,1
+24,Thiruvanthipuram,0,0,Anantya Resorts,15000,3.5,"State Highway 45, Kaliel Village,Kanyakumari District,Chittar Lake,Tamil Nadu,India",629103,"Lakefront hotel in Chittar Lake with outdoor pool, restaurant",1,0,21,1
+25,Guwahati,0,0,Cygnett Inn Repose,3800,3.5,"ABC G.S. Road Tarun Nagar 2nd By-Lane, Guwahati, Assam",781005,"3.5-star hotel in Guwahati with restaurant, bar/lounge",1,1,41,0
+26,Mysore,1,0,Aishwarya Suites,1200,3,"3844/3, Near KSRTC Bus depot, New Bamboo Bazaar Road, Highway Circle",570015,No-frills hotel in Mysore,1,0,24,0
+27,Bhubaneswar,0,0,Ginger Bhubaneswar,2771,3,"Opp Nalco Headquarters, Jaidev Vihar Nayapalli, Bhubaneshwar, Orissa",751013,3-star Bhubaneshwar hotel with restaurant,1,0,101,0
+28,Kochi,0,0,Abad Atrium,3919,3,"M.G. Road, Cochin, Kerala, 682035 India",682035,"3-star hotel in Cochin with outdoor pool, restaurant",1,1,52,1
+29,Mangalore,0,0,Ginger Mangalore,2463,3,"Kottara Chowki Junction, Mangalore, Karnataka",575006,3-star Mangalore hotel with restaurant,1,0,79,0
+30,Udaipur,0,0,Anjani Hotel,1761,3,Haveli Anjani Ji Ki 77 Gangour Ghat Marg Udaipur Rajasthan 313001 India,313001,"3-star hotel in Udaipur with outdoor pool, restaurant",1,0,21,1
+31,Haridwar,0,0,EllBee Ganga View,5450,4,"355 Haridwar Road, Rishikesh, Uttarakhand, 249201, India",249201,"4-star hotel in Rishikesh with restaurant, conference center",1,1,32,0
+32,Puri,0,0,OYO Rooms Sea Shore,1660,3,"Near Gandhi Labour Foundation, Puri, Orissa",752001,3-star Puri hotel with conference center,1,1,15,0
+33,Shimla,0,0,Aditya Home Stay,3999,3.5,"Shoghi, Shimla",171219,"Family hotel in Shoghi with restaurant, conference center",1,1,4,0
+34,Panchkula,0,0,Treebo Western Court Panchkula,2383,3,"Site No. 2, Sector 10, Haryana, Panchkula, Chandigarh, 134110 India",134110,"3-star hotel in Panchkula with restaurant, bar/lounge",1,1,50,0
+35,Darjeeling,0,0,Central Heritage,4550,3.5,"Robertson Road, Darjeeling, West Bengal, 734101 India",734101,"3.5-star hotel in Darjeeling with bar/lounge, children's club",1,1,46,0
+36,Rishikesh,0,0,Aloha On The Ganges,5600,3.5,National Highway 58,249192,3.5,1,1,65,1
+37,Gangtok,0,0,Central Hill Resort Gangtok,2520,3,"Opp. Super Market, 31-A, National Highway, Gangtok, Sikkim",737101,"3-star hotel in Gangtok with restaurant, bar/lounge",1,1,28,0
+38,Ooty,0,0,ANAIKATTI SIRUVANI A Sterling Resort,5849,3.5,"6/301,Vadakottathara near LuluFancyStore, Palakkad Dist, Varagampadi",678581,"3.5-star resort in Kottathara with outdoor pool, restaurant",1,1,33,1
+39,Jaisalmer,0,0,1st Gate Home- Fusion,6375,3.5,"Dhibba Para,,Jaisalmer,Rajasthan,India",345001,"3-star hotel in Jaisalmer with restaurnat,bar lounge",1,0,8,0
+40,Nainital,0,0,Alpine Club,3960,3,"Ayarpatta Hills, Near Aurbindo Ashram, Barapatthar, Nainital",263001,"3-star hotel in Nainital with restaurant, conference center",1,0,18,0
+41,Munnar,0,0,Abad Copper Castle,8457,3,"Kannan Devan Hills, Munnar",685612,Mountain Munnar hotel with restaurant,1,1,38,0
+42,Manali,0,0,OYO Rooms Simsa Manali,1319,2.5,Kanyal Road,175131,2.5-star hotel,1,1,15,0
